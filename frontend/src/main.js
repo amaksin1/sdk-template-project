@@ -17,9 +17,9 @@ async function init() {
   
   // Render the main layout
   app.innerHTML = `
-    <header class="header">
+    <header class="header" style="color: green;">
       <h1>E-commerce Starter</h1>
-      <p>Frontend is running successfully!</p>
+      <p>Frontend is running successfully! The change has been made!!!</p>
     </header>
     
     <main class="main">
